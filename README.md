@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&hide=php&theme=dark&hide_border=true">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&theme=dark&hide=php&hide_border=true" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&theme=dark&hide=php&hide_border=true&layout=compact" />
 </a>
 </p>
 
