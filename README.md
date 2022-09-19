@@ -8,8 +8,8 @@
 <br/>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&layout=compact&hide=php&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&theme=dark&hide=php" />
 </a>
 </div>
 
