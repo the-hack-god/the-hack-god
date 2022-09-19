@@ -9,15 +9,10 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&layout=compact&hide=php&theme=dark&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&theme=dark&hide=php&hide_border=true" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&theme=dark&hide=php&hide_border=true" />
 </a>
 </div>
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&layout=compact&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-hack-god&theme=dark&hide=php&hide_border=true" />
-</a>
-</div>
-  <br/>
+<br/>
 
 [![Ritvik Jaiswal's Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-hack-god&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/the-hack-god)
