@@ -13,4 +13,3 @@
 
 <br/>
 
-[![Ritvik Jaiswal's Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-hack-god&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/the-hack-god)
